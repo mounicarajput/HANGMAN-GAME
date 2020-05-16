@@ -1,5 +1,5 @@
 import time
-#welcoming the user yoooooo
+#welcoming the user yoooooo yeahhhh
 name=input("what's your name?")
 print("hello"+name,"time to play hangman")
 
